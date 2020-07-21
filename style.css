@@ -1,0 +1,29 @@
+.First{
+background-color: purple;
+margin: 10px;
+}
+
+.Second {
+    background-color: pink;
+    margin: 11px;
+}
+
+.Third{
+    display: flex;
+    flex-direction: column;
+
+} 
+
+ul{
+    list-style-type: none;  /* Hello how are you with no dots */
+}
+
+h3:hover{
+background-color: lightgreen; /* Hello how are you hover over and itll be light green */
+}
+
+.Fourth{
+    width: 150vw;
+    background-color: lightblue;
+    overflow: scroll;
+}
